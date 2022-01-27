@@ -14,4 +14,4 @@ I am currently on the lookout for internship opportunities for the summer of 202
 ## Connect with me on socials!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-yashashgaurav-blue?style=flate&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-govindan-854425112/)]
+[![Linkedin Badge](https://www.linkedin.com/in/rohit-govindan-854425112/)]
