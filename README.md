@@ -8,7 +8,7 @@ I am currently on the lookout for internship opportunities for the summer of 202
 ##### Bio
 
 - 🏢 I'm currently studying at **[CMU](https://www.cmu.edu/)**
-- ⚙️ Languages that I am freshest at: `.py`, `.java`, `.sql`
+- ⚙️ Languages that I am freshest at: `.py`, `.java`, `.sql` , `.cpp`
 ---
 
 ## Connect with me on socials!
