@@ -5,7 +5,7 @@
 I am currently on the lookout for internship opportunities for the summer of 2022!
 
 ---
-##### About Me
+## About Me
 
 - 🏢 I'm currently studying at **[CMU](https://www.cmu.edu/)**
 - ⚙️ Languages that I am best at at: `.py`, `.java`,  `.cpp`,`.sql` ,
