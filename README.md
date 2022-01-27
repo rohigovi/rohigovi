@@ -10,7 +10,6 @@
 ---
 #### Send me a Connection Request
 #### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rohit-govindan-854425112/)
-&nbsp;
 ---
 #### What I'm Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22mqtd3a4phx4kwzoyckmqlsa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
