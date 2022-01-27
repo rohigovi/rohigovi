@@ -5,6 +5,7 @@
 ---
 #### About Me
 - 🎓 I'm currently studying at **[Carnegie Mellon](https://www.cmu.edu/)**
+- I am a proud UC Berkeley Graduate(Go Bears 🐻)
 - ⚙️ Languages that I am best at at: `.py`, `.java`,  `.cpp`,`.sql` ,
 - I lived in 
 - I love to read 📘, play tennis 🎾 and know pretty much all songs in existence(I clean up at Music Trivia games)🎵
