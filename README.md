@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
+I am Rohit Govindan, currently a Graduate student at Carnegie Mellon University!
+Currently, I am on the lookout for internship opportunities for the summer of 2022 - Hire Me!
 
-<!--
-**rohigovi/rohigovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the news
+Just finished my second semester of college - Straight As again! 😎
+Leet coding in my free time these days.
+Bio
+🏢 I'm currently studying at CMU
+🥼 Formally a Research and Development Engineer at First American
+⚙️ Languages that I am freshest at: .py, .java, .sql, .js, .html, .css
+👩‍💻 Other languages that I have experience with: .php, .cpp, .csharp
+📸 I am also a photographer, avid book reader and a StarTalk fan! (Keep looking up 🌟)
