@@ -1,6 +1,6 @@
 # Welcome To My World 🌍
 #### I am Rohit Govindan, a Graduate student at Carnegie Mellon University
-####I am currently on the lookout for internship opportunities for the summer of 2022!
+I am currently on the lookout for internship opportunities for the summer of 2022!
 ---
 #### About Me
 - 🏢 I'm currently studying at **[CMU](https://www.cmu.edu/)**
