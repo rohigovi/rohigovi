@@ -1,17 +1,20 @@
-# Hi there 👋
+# Welcome To My World 🌍
 
-### I am Rohit Govindan, currently a Graduate student at Carnegie Mellon University!
+### I am Rohit Govindan, a Graduate student at Carnegie Mellon University
 
-I am currently on the lookout for internship opportunities for the summer of 2022 - Hire Me!
+I am currently on the lookout for internship opportunities for the summer of 2022!
 
 ---
-##### Bio
+##### About Me
 
 - 🏢 I'm currently studying at **[CMU](https://www.cmu.edu/)**
-- ⚙️ Languages that I am freshest at: `.py`, `.java`, `.sql` , `.cpp`
----
+- ⚙️ Languages that I am best at at: `.py`, `.java`,  `.cpp`,`.sql` ,
 
-## Connect with me on socials!
+- I love read 📘 play tennis 🎾 and know pretty much all songs in existence(I clean up at Music Trivia games)🎵
 
-
-[![Linkedin Badge](https://www.linkedin.com/in/rohit-govindan-854425112/)]
+## Send me a Linkedin Request!
+<p align=”center”>
+<a href=”https://www.linkedin.com/in/rohit-govindan-854425112/”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
