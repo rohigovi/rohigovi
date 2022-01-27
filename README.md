@@ -9,7 +9,7 @@
 - I love to read 📘, play tennis 🎾 and know pretty much all songs in existence(I clean up at Music Trivia games)🎵
 ---
 #### Send me a Connection Request
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rohit-govindan-854425112/)
+####[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rohit-govindan-854425112/)
 &nbsp;
 ---
 #### What I'm Listening To
