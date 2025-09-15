@@ -4,8 +4,7 @@
 #### I am an avid Data Science enthusiast, and am currently on the lookout for fulltime opportunities post December 2022!
 ---
 #### About Me
-- 🎓 I'm currently studying at **[Carnegie Mellon](https://www.cmu.edu/)**
-- I am a proud UC Berkeley Graduate(Go Bears! 🐻)
+- I am a proud graduate of Carnegie Mellon University(Go Tartans!) and UC Berkeley(Go Bears! 🐻)
 - ⚙️ Languages that I am best at at: `.py`, `.java`,  `.cpp`,`.sql` ,
 - I love to read 📘, play tennis 🎾 and know pretty much all songs in existence(I clean up at Music Trivia games)🎵
 ---
